@@ -1,0 +1,280 @@
+#header{
+	width: 100%;
+	height: 90px;
+	background: #f44336;
+
+}
+#header #centrada{
+	width: 1100px;
+
+	height: auto;overflow: hidden;
+	border: 0px solid;
+	margin: auto;
+}
+#header #centrada #logo{
+	width: 520px;
+	border: 0px solid;
+	float: left;
+
+
+}
+#header #centrada #logo h2 {
+	color: #7b1fa2;
+}
+
+#header #centrada #logo p{
+	 margin-top: -20px;
+	 color:#004d40;
+}
+/*   menu*/
+#header #menu {
+	width: 550px;
+	height: auto;
+	overflow: hidden;
+	border: px solid;
+	float: right;
+	margin-top: 40px;
+	text-align: right; 
+}
+#header #menu ul li{
+	display: inline-block;
+}
+#header #menu ul li a{
+	color: #004d40;
+	text-decoration: none;
+	padding: 1px 6px;
+	margin: 0px 5px;
+    background: #ffab91;
+
+}
+#header #menu ul li:hover{
+	text-decoration: underline;
+	
+
+}
+ /* --- OTRO presentacion */
+
+ #presentacion {
+	width: 100%;
+	height: auto; overflow: hidden;
+	background: #ff8a65;
+}
+
+#presentacion #cent2{
+	width: 1100px;
+	margin: auto;
+}
+
+#presentacion #cent2 #isquierda{
+
+	width: 550px;
+	border: 0px solid;
+	float: left;
+
+}
+
+#presentacion #cent2 #isquierda h2{
+ 
+color: #004d40;
+font-weight: lighter;
+margin-top: 20px;
+}
+
+.descripcion-pres{
+	color: #880e4f;
+	text-align:left; 
+	margin-top: -10px;
+}
+ .ima{
+ 	width: 150px;
+ 	height: 150px;
+ 	float: left;
+  
+ 	margin: 10px  10px;
+
+}
+#presentacion #cent2 #derecha{
+width: 400px;
+height: auto;
+float: right;
+
+}
+
+.img{
+
+	width: 490px;
+	height: 250px;
+	border: 0px solid blue;
+	margin: 20px 0px; 
+	float: right;
+
+}
+  
+  /*--- la ultima parte ___*/
+#formato{
+		width: 100%;
+	height: auto; overflow: hidden;
+	background: #ffab91;
+	margin: auto;
+}
+#formato #entres{
+	width: 1100px;
+	height: auto;overflow: hidden;
+	margin: auto;
+	border: 0px solid;
+}
+
+.uno{
+	width: 250px;
+	height: 250px;
+	border: 0px solid;
+	float: left;
+	margin: 20px;
+	margin-left: 50PX;
+
+}
+#formato #entres h3{
+	color: #004d40;
+	margin: auto;
+	margin-left: 50px;
+}
+#formato #entres p{
+	color: #ad1457;
+}
+
+
+.docen{
+	width: 400px;
+	height: 250px;
+	border: 0px solid;
+	margin: 20px;
+	margin-right: 100PX;
+
+}
+.tres{
+	width: 250px;
+	height: 250px;
+	border: 0px solid;
+	float: right;
+	margin: -275px;
+	margin-right: 50PX;
+
+}
+/* pie de pagina final del principal*/
+#pie{
+	width: 100%;
+	height: auto; overflow: hidden;
+	background: #ffccbc;
+}
+#pie #centropie p{
+	color: #880e4f;
+	height: auto;overflow: hidden;
+	margin: auto;
+	width: 500px;
+	
+
+}
+ /*--- historiaa  ___*/
+#titulo{
+		width: 100%;
+  	height: auto;overflow: hidden;
+  	background:#ff66cc;
+}
+#titulo #title{
+	color: #a0522d;
+
+	}
+#titulo #title a :hover{
+	
+	color: #004d40;
+	margin-left: 50px;
+	text-decoration: none;
+	
+}
+#titulo #title a :hover{
+	text-decoration: underline;
+}
+
+#parrafo{
+	width: 100%;
+  	height: auto;overflow: hidden;
+  	background:#ff80ab;
+}
+#parrafo #history{
+	width: 1200px;
+	height: auto;overflow: hidden;
+	border: 0px solid;
+	margin-left:150px;
+
+}
+#parrafo #history p{
+	color:#800000;
+}
+
+}
+#parrafo #history .cerocinco{
+width: 100px;
+height: 200px;
+margin-right: 20px;
+margin-left: 20px;
+
+
+}
+#parrafo #history h2{
+	
+	margin-left: 50px;
+	color: #2f4f4f;
+}
+
+
+
+
+  /*--- fotos galeria ___*/
+
+  #principal{
+  	width: 100%;
+  	height: auto;overflow: hidden;
+  	background: #ff8a65;
+  }
+  #principal #parte{
+  	width: 1300px;
+  	margin: auto;
+	border: 1px solid;
+} 	
+
+#principal #parte1 .uno{
+	width: 300px;
+	height: 250px;
+	margin: 5px;
+
+}
+#principal h1{
+	color: #880e4f;
+	
+
+}
+#aprender{
+	width: 100%;
+	height: auto;overflow: hidden;
+	background: #ffab91;
+}
+#aprender h1{
+	color: #880e4f;
+}
+
+#aprender #parte2{
+	width: 1300px;
+	height: auto;overflow: hidden;
+	margin: auto;
+	border: 0px solid;
+}	
+#aprender #parte2 .dos{
+	width: 230px;
+	height: 260px;
+	margin: 10px;
+}
+
+
+
+
+
